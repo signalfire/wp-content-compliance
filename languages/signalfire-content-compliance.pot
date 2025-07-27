@@ -1,0 +1,244 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the Signalfire Content Compliance package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Signalfire Content Compliance 1.0.0\n"
+"Report-Msgid-Bugs-To: support@signalfire.com\n"
+"POT-Creation-Date: 2025-01-01 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: signalfire-content-compliance.php:80
+msgid "Content Review Required: {post_title}"
+msgstr ""
+
+#: signalfire-content-compliance.php:82
+msgid "Content Update Submitted: {post_title}"
+msgstr ""
+
+#: signalfire-content-compliance.php:307
+msgid "Content Compliance"
+msgstr ""
+
+#: signalfire-content-compliance.php:381
+msgid "Maintainer Email:"
+msgstr ""
+
+#: signalfire-content-compliance.php:384
+msgid "Leave blank to use default maintainer: %s"
+msgstr ""
+
+#: signalfire-content-compliance.php:395
+msgid "Compliance Status"
+msgstr ""
+
+#: signalfire-content-compliance.php:534
+msgid "Compliant"
+msgstr ""
+
+#: signalfire-content-compliance.php:536
+msgid "Review Required"
+msgstr ""
+
+#: signalfire-content-compliance.php:538
+msgid "Under Review"
+msgstr ""
+
+#: signalfire-content-compliance.php:540
+msgid "Unknown"
+msgstr ""
+
+#: signalfire-content-compliance.php:664
+#: signalfire-content-compliance.php:695
+#: signalfire-content-compliance.php:1521
+#: signalfire-content-compliance.php:2411
+#: signalfire-content-compliance.php:2441
+#: signalfire-content-compliance.php:2555
+#: signalfire-content-compliance.php:2593
+#: signalfire-content-compliance.php:2651
+#: signalfire-content-compliance.php:2698
+#: signalfire-content-compliance.php:2839
+msgid "Security check failed."
+msgstr ""
+
+#: signalfire-content-compliance.php:720
+msgid "Review submitted successfully!"
+msgstr ""
+
+#: signalfire-content-compliance.php:726
+msgid "Error submitting review."
+msgstr ""
+
+#: signalfire-content-compliance.php:1071
+msgid "Content Compliance Settings"
+msgstr ""
+
+#: signalfire-content-compliance.php:1075
+msgid "General Settings"
+msgstr ""
+
+#: signalfire-content-compliance.php:1082
+msgid "Post Types"
+msgstr ""
+
+#: signalfire-content-compliance.php:1087
+msgid "Review Frequency"
+msgstr ""
+
+#: signalfire-content-compliance.php:1092
+msgid "Non-Response Action"
+msgstr ""
+
+#: signalfire-content-compliance.php:1097
+msgid "Website Manager Email"
+msgstr ""
+
+#: signalfire-content-compliance.php:1102
+msgid "Email Settings"
+msgstr ""
+
+#: signalfire-content-compliance.php:1109
+msgid "Email Subject"
+msgstr ""
+
+#: signalfire-content-compliance.php:1114
+msgid "Email Template"
+msgstr ""
+
+#: signalfire-content-compliance.php:1119
+msgid "Manager Email Subject"
+msgstr ""
+
+#: signalfire-content-compliance.php:1124
+msgid "Manager Email Template"
+msgstr ""
+
+#: signalfire-content-compliance.php:1140
+msgid "Select which post types should be subject to compliance reviews."
+msgstr ""
+
+#: signalfire-content-compliance.php:1173
+msgid "How often should content be reviewed for compliance?"
+msgstr ""
+
+#: signalfire-content-compliance.php:1186
+msgid "Monthly"
+msgstr ""
+
+#: signalfire-content-compliance.php:1187
+msgid "Quarterly"
+msgstr ""
+
+#: signalfire-content-compliance.php:1188
+msgid "Annually"
+msgstr ""
+
+#: signalfire-content-compliance.php:1198
+msgid "What should happen when a maintainer doesn't respond to a review request?"
+msgstr ""
+
+#: signalfire-content-compliance.php:1211
+msgid "Do nothing"
+msgstr ""
+
+#: signalfire-content-compliance.php:1212
+msgid "Send reminder email"
+msgstr ""
+
+#: signalfire-content-compliance.php:1213
+msgid "Mark as non-compliant"
+msgstr ""
+
+#: signalfire-content-compliance.php:1223
+msgid "Email address of the website manager who should receive notifications."
+msgstr ""
+
+#: signalfire-content-compliance.php:1237
+msgid "Subject line for review notification emails. Use {post_title} as placeholder."
+msgstr ""
+
+#: signalfire-content-compliance.php:1251
+msgid "Email template for review notifications. Available placeholders: {post_title}, {post_url}, {review_url}, {maintainer_name}"
+msgstr ""
+
+#: signalfire-content-compliance.php:1265
+msgid "Subject line for manager notification emails when content is updated."
+msgstr ""
+
+#: signalfire-content-compliance.php:1279
+msgid "Email template for manager notifications when content is updated."
+msgstr ""
+
+#: signalfire-content-compliance.php:1324
+msgid "Hello {maintainer_name},"
+msgstr ""
+
+#: signalfire-content-compliance.php:1326
+msgid "You are receiving this email because you are listed as the maintainer for the following content:"
+msgstr ""
+
+#: signalfire-content-compliance.php:1328
+msgid "Post: {post_title}"
+msgstr ""
+
+#: signalfire-content-compliance.php:1329
+msgid "URL: {post_url}"
+msgstr ""
+
+#: signalfire-content-compliance.php:1331
+msgid "This content requires a compliance review. Please review the content and confirm it meets all current legal and regulatory requirements."
+msgstr ""
+
+#: signalfire-content-compliance.php:1333
+msgid "To complete your review, please click the following link:"
+msgstr ""
+
+#: signalfire-content-compliance.php:1334
+msgid "{review_url}"
+msgstr ""
+
+#: signalfire-content-compliance.php:1336
+msgid "Thank you for helping maintain content compliance."
+msgstr ""
+
+#: signalfire-content-compliance.php:1338
+msgid "Best regards,"
+msgstr ""
+
+#: signalfire-content-compliance.php:1339
+msgid "The Website Team"
+msgstr ""
+
+#: signalfire-content-compliance.php:1349
+msgid "Hello,"
+msgstr ""
+
+#: signalfire-content-compliance.php:1351
+msgid "A content maintainer has submitted an update for review:"
+msgstr ""
+
+#: signalfire-content-compliance.php:1353
+msgid "Please review the submission and take appropriate action."
+msgstr ""
+
+#: signalfire-content-compliance.php:1355
+msgid "Content Management Team"
+msgstr ""
+
+#: readme.txt:1
+msgid "Signalfire Content Compliance"
+msgstr ""
+
+#: readme.txt:5
+msgid "Ensures content compliance with legal requirements by managing maintainer reviews and approvals on a scheduled basis."
+msgstr ""
